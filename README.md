@@ -32,9 +32,6 @@ I'm a Computer Science graduate student at George Mason University (4.0 GPA), pa
 - AWS Certified Developer - Associate (2024)
 - Led winning team for Verint's Interaction Wrap Up Bot improvement initiative
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwithamary&show_icons=true&theme=radical)
-
 ### 🌟 Featured Projects
 1. **AI-Powered Keyphrase Extraction System**
    - Enhanced SAMRank model using BERT, GPT-2, RoBERTa
