@@ -59,6 +59,6 @@ Let's Connect!
 * 📧 Email: maryashwithagopu@gmail.com
 * 📞 Phone: +1 484 686 4505
 * 🔗 [LinkedIn](https://www.linkedin.com/in/mary-ashwitha-gopu)
-* 🌐 [Portfolio]([your-portfolio-url](https://ashwithamary.github.io/portfolio/))
+* 🌐 [Portfolio](https://ashwithamary.github.io/portfolio/)
 
 Thank you for visiting my profile! 😊
