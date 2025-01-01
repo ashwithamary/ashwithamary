@@ -5,16 +5,19 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maryashwithagopu@gmail.com)
 
 ## 🚀 About Me
-I am Mary Ashwitha Gopu, currently pursuing a Master's degree in Computer Science at George Mason University with a perfect 4.0 GPA, expecting to graduate in December 2024. 🎓 I'm currently working as a Software Engineer Intern at Verint Systems and serving as a Graduate Teaching Assistant at GMU. 💼
+I am Mary Ashwitha Gopu, a recent graduate with a Master's degree in Computer Science from George Mason University, where I maintained a perfect 4.0 GPA throughout my studies. 
 
-I am passionate about developing innovative solutions and am actively seeking full-time Software Engineering opportunities starting January 2025.
+🎓 During my graduate studies, I served as a Graduate Teaching Assistant at GMU and completed a successful internship as a Software Engineer at Verint Systems. 
+
+💼 I am passionate about developing innovative solutions and am actively seeking full-time Software Engineering opportunities. 
 
 🚀 I specialize in building scalable applications, optimizing deployment processes, and mentoring future developers. I love tackling complex technical challenges and creating efficient, elegant solutions.
 
-### 🔭 Current Work
-- Optimizing deployment processes using Ansible, Harness, and cloud platforms
-- Enhancing alarm generation systems with DataDog monitoring and OpsGenie integration
-- Mentoring 200+ students in web development technologies (Angular, React, Tableau)
+
+### 🔭 Recent Accomplishments
+- Successfully optimized deployment processes using Ansible, Harness, and cloud platforms at Verint Systems
+- Enhanced alarm generation systems with DataDog monitoring and OpsGenie integration
+- Mentored 200+ students in web development technologies (Angular, React, Tableau) as a Graduate Teaching Assistant
 
 🌟 **My Skillset Includes:**
 * **Languages**: Java, Python, C/C++, JavaScript, TypeScript, SQL
@@ -26,7 +29,7 @@ I am passionate about developing innovative solutions and am actively seeking fu
 * **Certifications**: AWS Certified Developer - Associate, Google Data Analytics, Deep Learning Specialization
 
 ### 🎓 Education
-- **MS in Computer Science** - George Mason University (GPA: 4.0/4.0)
+- **MS in Computer Science** - George Mason University (GPA: 3.97/4.0) - Graduated December 2024
 - **B.Tech in Computer Science** - JNTU Hyderabad
 
 ### 🏆 Recent Achievements
