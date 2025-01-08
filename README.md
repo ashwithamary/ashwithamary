@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maryashwithagopu@gmail.com)
 
 ## 🚀 About Me
-I am Mary Ashwitha Gopu, a recent graduate with a Master's degree in Computer Science from George Mason University, where I maintained a perfect 4.0 GPA throughout my studies. 
+I am Mary Ashwitha Gopu, a recent graduate with a Master's degree in Computer Science from George Mason University. 
 
 🎓 During my graduate studies, I served as a Graduate Teaching Assistant at GMU and completed a successful internship as a Software Engineer at Verint Systems. 
 
