@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mary Ashwitha Gopu
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mary-ashwitha-gopu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashwithamary.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-v2-black-five.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maryashwithagopu@gmail.com)
 
 ## 🚀 About Me
@@ -62,6 +62,6 @@ Let's Connect!
 * 📧 Email: maryashwithagopu@gmail.com
 * 📞 Phone: +1 484 686 4505
 * 🔗 [LinkedIn](https://www.linkedin.com/in/mary-ashwitha-gopu)
-* 🌐 [Portfolio](https://ashwithamary.github.io/portfolio/)
+* 🌐 [Portfolio](https://portfolio-v2-black-five.vercel.app/)
 
 Thank you for visiting my profile! 😊
