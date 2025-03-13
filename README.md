@@ -37,7 +37,7 @@ I am Mary Ashwitha Gopu, a recent graduate with a Master's degree in Computer Sc
 - AWS Certified Developer - Associate (2024)
 - Led winning team for Verint's Interaction Wrap Up Bot improvement initiative
 
-📌 **Featured Projects**
+###📌 **Featured Projects**
 * **AI-Powered Keyphrase Extraction System (2024)**
    * Enhanced SAMRank model for unsupervised keyphrase extraction using Python and Transformer models (BERT, GPT-2, RoBERTa)
    * Improved model robustness by 15% through strategic data perturbation techniques
@@ -58,7 +58,7 @@ I am Mary Ashwitha Gopu, a recent graduate with a Master's degree in Computer Sc
    * Reduced ambulance routing delays by 30% with real-time ventilator availability dashboard
    * Integrated across 50 hospital locations
 
-Let's Connect!
+###  📫 Let's Connect!
 * 📧 Email: maryashwithagopu@gmail.com
 * 📞 Phone: +1 484 686 4505
 * 🔗 [LinkedIn](https://www.linkedin.com/in/mary-ashwitha-gopu)
